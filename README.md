@@ -85,7 +85,7 @@ ctest --output-on-failure
 .\example1.exe
 .\example2.exe
 ```
-### Sposób 4 - Pełne Visual Studio (Windows - Natywne wsparcie CMake)
+### Sposób 4 - Visual Studio (Windows)
 
 Metoda przeznaczona dla standardowego środowiska Microsoft Visual Studio (np. 2019 / 2022) z zainstalowanym pakietem "Programowanie aplikacji klasycznych w C++". Nie wymaga ręcznego wpisywania żadnych poleceń w terminalu.
 
