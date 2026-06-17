@@ -220,4 +220,4 @@ Testy obejmują zarówno przypadki poprawne (sprawdzenie wartości numerycznych)
 
 ## Autorzy
 
-Projekt zrealizowany w ramach laboratorium z **Metod Numerycznych** - ćwiczenie 13.
+Emanuel Dziedzic.
